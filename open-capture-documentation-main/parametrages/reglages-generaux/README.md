@@ -1,0 +1,2 @@
+# Réglages généraux
+
